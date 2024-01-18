@@ -1,2 +1,4 @@
-"# Crypto-Currency" 
-"- HTML -CSS -JS" 
+# Crypto-Currency
+- HTML
+- CSS
+- JS
